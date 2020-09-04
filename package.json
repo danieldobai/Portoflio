@@ -17,6 +17,6 @@
    "license": "ISC",
    "homepage": "https://bitbucket.org/danieldobai/portfolio#readme",
    "dependencies": {
-      "node-sass": "^4.12.0"
+      "node-sass": "^4.13.1"
    }
 }
